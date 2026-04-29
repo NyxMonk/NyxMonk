@@ -1,16 +1,34 @@
-## Hi there 👋
+<h2>Hi, I'm Navyam 👋</h2>
 
-<!--
-**NyxMonk/NyxMonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+Interested in building reliable systems and improving problem-solving through practical development.<br>
+I focus on understanding how things work under the hood rather than just using them.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech & Tools
+- Python, C++, JavaScript (basics)  
+- APIs and backend logic  
+- PostgreSQL, Redis  
+- Docker  
+
+---
+
+### 🎯 Focus
+- Clean and maintainable code  
+- Structured application design  
+- Debugging and system understanding  
+- Performance and efficiency  
+
+---
+
+### 📈 Currently
+- Strengthening system design fundamentals  
+- Exploring scalability and real-world behavior  
+- Improving practical problem-solving  
+
+---
+
+### 🔗 Connect
+- LinkedIn: https://www.linkedin.com/in/navyam-gupta
